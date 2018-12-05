@@ -1,2 +1,2 @@
-# memorygame.github.oi
+# PLEASE DOWLOAND THE REPOSITORY TO SEE THE PROJECT
 Memory game 
